@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153" height="109" viewBox="0 0 153 109">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #474962;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Quote_Icon" data-name="Quote Icon" class="cls-1" d="M522,7426.4h32.786L532.929,7470h32.785l21.857-43.6V7361H522v65.4Zm87.428-65.4v65.4h32.786L620.357,7470h32.785L675,7426.4V7361H609.428Z" transform="translate(-522 -7361)"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 416" width="1920" height="416">
+	<title>Preencher com Cor Sólida 1</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #48b1c3 } 
+	</style>
+	<path id="Preencher com Cor Sólida 1" fill-rule="evenodd" class="shp0" d="M1920 0.01C1920 0.01 1814.77 66.8 1751 197.01C1701.21 298.7 1640.03 399.8 1536 403.01C1327.07 409.46 1132.27 134.47 874 282.01C598.55 439.36 539.69 394.03 318 290.01C126.04 199.94 0 280.01 0 280.01L0 415.53L1920 415.53L1920 0.01Z" />
+</svg>
